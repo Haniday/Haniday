@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
+A weeb, a gamer, and has a huge curiosity in programming and related things- l
 **Haniday/Haniday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
