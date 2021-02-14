@@ -10,5 +10,3 @@ I am a
 I have a huge curiosity in programming related things.  
 Even though i do not know how to program anything...  
 I have never really "learned" how.
-
-<img src="/Haniday/HanidayFiles/blob/main/HTML/stocking1.png?raw=true" alt="stocking1.png">
