@@ -1,7 +1,6 @@
 # Hello there! 👋
 
 He/she/helicopter 🚁  
-I am a
 - [X] weeb
 - [X] gamer
 - [X] nerd
