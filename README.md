@@ -4,7 +4,7 @@ He/she/helicopter 🚁
 - [X] weeb
 - [X] gamer
 - [X] nerd
-- [X] A HUGE PERVERT
+- [X] nerd?
 
 I have a huge curiosity in programming related things.  
 Even though i do not know how to program anything...  
